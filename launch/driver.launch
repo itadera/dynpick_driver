@@ -1,6 +1,6 @@
 <launch>
   <arg name="device" default="/dev/ttyUSB_dynpick" />
-  <arg name="rate" default="200" />
+  <arg name="rate" default="500" />
   <arg name="sensor_frame_id" default="/force_sensor_link" />
   <arg name="topic" default="/force" />
   <arg name="frequency_div" default="1" />

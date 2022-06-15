@@ -8,6 +8,6 @@
   <link name="world"/>
   
   <xacro:dynpick prefix="" parent="world" sensor_frame_id="$(arg sensor_frame_id)">
-    <origin xyz="0 0 0" rpy="0 0 0" />
+    <origin xyz="0 0 0" rpy="${PI/2} 0 0" />
   </xacro:dynpick>
 </robot>
