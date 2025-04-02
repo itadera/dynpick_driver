@@ -1,6 +1,10 @@
 DynPick ROS driver
 ==================================
 
+**This is ROS2 imprimentation of dynpick_driver**
+
+
+---
 ![WDF-6M200-3](http://www.wacoh-tech.com/img/img_model_wdf_6m200_3.jpg "WDF-6M200-3")
 
 ROS driver for [Wacoh-tech force sensor](http://www.wacoh-tech.com/en/products/dynpick/).
