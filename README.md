@@ -1,7 +1,9 @@
 DynPick ROS driver
 ==================================
 
-**This is ROS2 imprimentation of dynpick_driver**
+**This is the ROS 2 implementation of dynpick_driver**
+
+This implementation has been tested exclusively with the DynPick WEF-6A200-4-RCD-B sensor.
 
 
 ---
